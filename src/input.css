@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: outfit;
+    src: url(./fonts/Outfit/Outfit-VariableFont_wght.ttf) format('truetype');
+}
+@font-face {
+    font-family: mono;
+    src: url(./fonts/Space_Mono/SpaceMono-Regular.ttf) format('truetype');
+}
